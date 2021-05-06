@@ -1,0 +1,43 @@
+.dealer {
+  color: black;
+}
+
+/* * {
+  outline: 2px solid pink;
+} */
+
+.left-edge {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  border-left: 2px solid green;
+  height: 7vh;
+  width: 7vw;
+}
+.background-image {
+  background-image: url(https://www.deere.com/assets/images/common/home-page/nogoingback-1366x347.jpg);
+  height: 50vh;
+  background-size: cover;
+}
+
+/* .text-white {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} */
+
+/* .site-links{
+    background-color: rgb(51, 48, 48);
+} */
+
+.tractor1 {
+  background-image: url(https://images.unsplash.com/photo-1527847263472-aa5338d178b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2106&q=80);
+  background-size: cover;
+  height: 50vh;
+  width: 50vw;
+}
+
+.opac-layer {
+  background-color: #403d3dc2;
+  height: inherit;
+}
